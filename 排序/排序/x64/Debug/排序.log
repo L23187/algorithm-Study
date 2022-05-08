@@ -1,3 +1,0 @@
-﻿  排序.cpp
-D:\algorithm\排序\排序\排序.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  排序.vcxproj -> D:\algorithm\排序\x64\Debug\排序.exe
