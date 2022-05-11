@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="高精度.cpp">
+    <ClCompile Include="高精度加法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

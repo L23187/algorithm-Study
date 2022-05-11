@@ -1,0 +1,7 @@
+﻿  高精度减法.cpp
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\高精度减法\高精度减法.cpp(11,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\高精度减法\高精度减法.cpp(43,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\高精度减法\高精度减法.cpp(44,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\高精度减法\高精度减法.cpp(48,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\高精度减法\高精度减法.cpp(53,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  高精度减法.vcxproj -> D:\algorithm\algorithm-Study\第一章 基础算法\高精度减法\x64\Debug\高精度减法.exe

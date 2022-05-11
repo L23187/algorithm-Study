@@ -1,6 +1,8 @@
-﻿  高精度.cpp
-D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度.cpp(9,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度.cpp(33,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度.cpp(34,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度.cpp(37,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  高精度.vcxproj -> D:\algorithm\algorithm-Study\第一章 基础算法\高精度\x64\Debug\高精度.exe
+﻿  高精度减法.cpp
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度减法.cpp(11,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度减法.cpp(38,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度减法.cpp(39,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度减法.cpp(43,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\高精度\高精度减法.cpp(48,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+高精度减法.obj : error LNK2005: main 已经在 高精度.obj 中定义
+D:\algorithm\algorithm-Study\第一章 基础算法\高精度\x64\Debug\高精度.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
